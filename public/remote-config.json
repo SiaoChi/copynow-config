@@ -1,20 +1,20 @@
 {
-  "ios_min_version": "1.0.1",
-  "ios_latest_version": "1.0.1",
+  "ios_min_version": "1.0.2",
+  "ios_latest_version": "1.0.2",
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.0.1",
   "ios_update_description": {
-    "zh-TW": "• 鍵盤功能：直接從鍵盤貼上常用片段，一按即用\n• 分享功能：從其他 App 分享連結到 CopyNow\n• 隱藏功能教學：設定頁新增圖文教學引導",
-    "zh-Hans": "• 键盘功能：直接从键盘粘贴常用片段，一按即用\n• 分享功能：从其他 App 分享链接到 CopyNow\n• 隐藏功能教学：设置页新增图文教学引导",
-    "en": "• Keyboard Extension: Paste snippets directly from the keyboard with one tap\n• Share Extension: Share links from other apps to CopyNow\n• Hidden Features Tutorial: Step-by-step setup guide in Settings",
-    "ja": "• キーボード機能：キーボードからワンタップでスニペットを貼り付け\n• 共有機能：他のアプリからCopyNowにリンクを共有\n• 隠し機能ガイド：設定ページにチュートリアルを追加",
-    "ko": "• 키보드 기능: 키보드에서 바로 스니펫을 한 번에 붙여넣기\n• 공유 기능: 다른 앱에서 CopyNow로 링크 공유\n• 숨겨진 기능 가이드: 설정에 단계별 튜토리얼 추가",
-    "es": "• Teclado: Pega fragmentos directamente desde el teclado con un toque\n• Extensión de compartir: Comparte enlaces desde otras apps a CopyNow\n• Guía de funciones ocultas: Tutorial paso a paso en Ajustes",
-    "fr": "• Clavier : Collez des extraits directement depuis le clavier en un seul clic\n• Extension de partage : Partagez des liens depuis d'autres apps vers CopyNow\n• Guide des fonctions cachées : Tutoriel étape par étape dans les Réglages",
-    "de": "• Tastatur: Snippets direkt über die Tastatur mit einem Tipp einfügen\n• Teilen-Erweiterung: Links aus anderen Apps mit CopyNow teilen\n• Versteckte Funktionen: Schritt-für-Schritt-Anleitung in den Einstellungen",
-    "vi": "• Bàn phím: Dán đoạn trích trực tiếp từ bàn phím chỉ với một chạm\n• Chia sẻ: Chia sẻ liên kết từ ứng dụng khác sang CopyNow\n• Hướng dẫn tính năng ẩn: Hướng dẫn từng bước trong Cài đặt",
-    "th": "• แป้นพิมพ์: วางข้อความที่บันทึกไว้จากแป้นพิมพ์ได้ทันทีด้วยการแตะครั้งเดียว\n• แชร์: แชร์ลิงก์จากแอปอื่นไปยัง CopyNow\n• คู่มือฟีเจอร์ซ่อน: คำแนะนำทีละขั้นตอนในการตั้งค่า"
-  },
+  "zh-TW": "• 新增閱讀模式：可直接閱讀資訊\n• 修復已知錯誤",
+  "zh-Hans": "• 新增阅读模式：可直接阅读信息\n• 修复已知问题",
+  "en": "• Added Reading Mode: View content directly\n• Fixed known issues",
+  "ja": "• 読書モードを追加：情報を直接閲覧可能\n• 既知の問題を修正",
+  "ko": "• 읽기 모드 추가: 정보를 바로 확인 가능\n• 알려진 문제 수정",
+  "es": "• Modo lectura añadido: visualiza el contenido directamente\n• Corrección de errores conocidos",
+  "fr": "• Ajout du mode lecture : consultez le contenu directement\n• Correction de bugs connus",
+  "de": "• Lesemodus hinzugefügt: Inhalte direkt anzeigen\n• Bekannte Probleme behoben",
+  "vi": "• Thêm chế độ đọc: xem nội dung trực tiếp\n• Sửa các lỗi đã biết",
+  "th": "• เพิ่มโหมดอ่าน: ดูข้อมูลได้โดยตรง\n• แก้ไขข้อผิดพลาดที่ทราบแล้ว"
+},
   "macos_update_description": {
     "zh-TW": "• 快速面板：全域快捷鍵一鍵呼出片段面板\n• 版本控制：新增自動更新提醒機制\n• iCloud 同步：跨裝置即時同步你的片段",
     "zh-Hans": "• 快速面板：全局快捷键一键呼出片段面板\n• 版本控制：新增自动更新提醒机制\n• iCloud 同步：跨设备即时同步你的片段",
