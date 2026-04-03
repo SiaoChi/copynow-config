@@ -4,27 +4,27 @@
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.0.1",
   "ios_update_description": {
-    "zh-TW": "• 修復已知錯誤",
-    "zh-Hans": "• 修复已知问题",
-    "en": "• Fixed known issues",
-    "ja": "• 既知の問題を修正",
-    "ko": "• 알려진 문제 수정",
-    "es": "• Corrección de errores conocidos",
-    "fr": "• Correction de bugs connus",
-    "de": "• Bekannte Probleme behoben",
-    "vi": "• Sửa các lỗi đã biết",
-    "th": "• แก้ไขข้อผิดพลาดที่ทราบแล้ว"
+    "zh-TW": "• 修復已知錯誤\n• 新增鍵盤引導資訊",
+    "zh-Hans": "• 修复已知错误\n• 新增键盘引导信息",
+    "en": "• Fixed known issues\n• Added keyboard setup guide",
+    "ja": "• 既知の問題を修正\n• キーボード設定ガイドを追加",
+    "ko": "• 알려진 문제 수정\n• 키보드 설정 가이드 추가",
+    "es": "• Corrección de errores conocidos\n• Guía de configuración del teclado añadida",
+    "fr": "• Correction de bugs connus\n• Guide de configuration du clavier ajouté",
+    "de": "• Bekannte Fehler behoben\n• Tastatur-Einrichtungsanleitung hinzugefügt",
+    "vi": "• Sửa các lỗi đã biết\n• Thêm hướng dẫn cài đặt bàn phím",
+    "th": "• แก้ไขข้อผิดพลาดที่ทราบแล้ว\n• เพิ่มคู่มือการตั้งค่าแป้นพิมพ์"
   },
   "macos_update_description": {
-    "zh-TW": "• 快速面板：全域快捷鍵一鍵呼出片段面板\n• 版本控制：新增自動更新提醒機制\n• iCloud 同步：跨裝置即時同步你的片段",
-    "zh-Hans": "• 快速面板：全局快捷键一键呼出片段面板\n• 版本控制：新增自动更新提醒机制\n• iCloud 同步：跨设备即时同步你的片段",
-    "en": "• Floating Panel: Global hotkey to instantly access your snippets\n• Version Control: Automatic update notification system\n• iCloud Sync: Real-time snippet sync across all your devices",
-    "ja": "• フローティングパネル：グローバルホットキーでスニペットに即アクセス\n• バージョン管理：自動アップデート通知システム\n• iCloud同期：すべてのデバイスでリアルタイム同期",
-    "ko": "• 플로팅 패널: 글로벌 단축키로 스니펫 즉시 접근\n• 버전 관리: 자동 업데이트 알림 시스템\n• iCloud 동기화: 모든 기기에서 실시간 동기화",
-    "es": "• Panel flotante: Acceso instantáneo a tus fragmentos con atajo global\n• Control de versiones: Sistema de notificación de actualizaciones automáticas\n• Sincronización iCloud: Sincronización en tempo real en todos tus dispositivos",
-    "fr": "• Panneau flottant : Accès instantané à vos extraits via raccourci global\n• Contrôle de version : Système de notification de mise à jour automatique\n• Synchronisation iCloud : Synchronisation en temps réel sur tous vos appareils",
-    "de": "• Schwebendes Panel: Globale Tastenkombination für sofortigen Zugriff auf Snippets\n• Versionskontrolle: Automatisches Update-Benachrichtigungssystem\n• iCloud-Sync: Echtzeit-Synchronisierung über alle Geräte",
-    "vi": "• Bảng nổi: Phím tắt toàn cục để truy cập nhanh đoạn trích\n• Quản lý phiên bản: Hệ thống thông báo cập nhật tự động\n• Đồng bộ iCloud: Đồng bộ thời gian thực trên tất cả thiết bị",
-    "th": "• แผงลอย: ปุ่มลัดเรียกใช้สนิปเพตได้ทันที\n• ควบคุมเวอร์ชัน: ระบบแจ้งเตือนอัปเดตอัตโนมัติ\n• ซิงค์ iCloud: ซิงค์ข้อมูลแบบเรียลไทม์ในทุกอุปกรณ์"
+    "zh-TW": "• 修復錯誤\n• 新增閱讀視窗",
+    "zh-Hans": "• 修复错误\n• 新增阅读窗口",
+    "en": "• Bug fixes\n• New read view",
+    "ja": "• バグ修正\n• 閲覧ウィンドウを追加",
+    "ko": "• 버그 수정\n• 읽기 창 추가",
+    "es": "• Corrección de errores\n• Nueva ventana de lectura",
+    "fr": "• Correction de bugs\n• Nouvelle fenêtre de lecture",
+    "de": "• Fehlerbehebungen\n• Neues Lesefenster",
+    "vi": "• Sửa lỗi\n• Thêm cửa sổ đọc mới",
+    "th": "• แก้ไขข้อบกพร่อง\n• เพิ่มหน้าต่างอ่านใหม่"
   }
 }
