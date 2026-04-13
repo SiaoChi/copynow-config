@@ -1,6 +1,6 @@
 {
-  "ios_min_version": "1.0.3",
-  "ios_latest_version": "1.0.3",
+  "ios_min_version": "1.0.5",
+  "ios_latest_version": "1.0.5",
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.0.1",
   "ios_update_description": {
