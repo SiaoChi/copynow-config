@@ -1,19 +1,19 @@
 {
-  "ios_min_version": "1.0.5",
-  "ios_latest_version": "1.0.5",
+  "ios_min_version": "1.0.9",
+  "ios_latest_version": "1.0.9",
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.0.1",
   "ios_update_description": {
-    "zh-TW": "• 修復已知錯誤\n• 新增鍵盤引導資訊",
-    "zh-Hans": "• 修复已知错误\n• 新增键盘引导信息",
-    "en": "• Fixed known issues\n• Added keyboard setup guide",
-    "ja": "• 既知の問題を修正\n• キーボード設定ガイドを追加",
-    "ko": "• 알려진 문제 수정\n• 키보드 설정 가이드 추가",
-    "es": "• Corrección de errores conocidos\n• Guía de configuración del teclado añadida",
-    "fr": "• Correction de bugs connus\n• Guide de configuration du clavier ajouté",
-    "de": "• Bekannte Fehler behoben\n• Tastatur-Einrichtungsanleitung hinzugefügt",
-    "vi": "• Sửa các lỗi đã biết\n• Thêm hướng dẫn cài đặt bàn phím",
-    "th": "• แก้ไขข้อผิดพลาดที่ทราบแล้ว\n• เพิ่มคู่มือการตั้งค่าแป้นพิมพ์"
+    "zh-TW": "• 新增分類排序功能（設定頁）\n• 鍵盤新增一鍵清空功能",
+    "zh-Hans": "• 新增分类排序功能（设置页）\n• 键盘新增一键清空功能",
+    "en": "• Added category sorting (Settings)\n• Added one-tap clear on the keyboard",
+    "ja": "• カテゴリ並べ替え機能を追加（設定）\n• キーボードにワンタップ消去を追加",
+    "ko": "• 카테고리 정렬 기능 추가 (설정)\n• 키보드에 원탭 지우기 추가",
+    "es": "• Añadido el orden de categorías (Ajustes)\n• Añadido borrado con un toque en el teclado",
+    "fr": "• Ajout du tri des catégories (Réglages)\n• Ajout de l'effacement en un geste sur le clavier",
+    "de": "• Kategorie-Sortierung hinzugefügt (Einstellungen)\n• Löschen per Tipp auf der Tastatur hinzugefügt",
+    "vi": "• Thêm sắp xếp danh mục (Cài đặt)\n• Thêm xóa nhanh một chạm trên bàn phím",
+    "th": "• เพิ่มการจัดเรียงหมวดหมู่ (การตั้งค่า)\n• เพิ่มการล้างด้วยปุ่มเดียวบนแป้นพิมพ์"
   },
   "macos_update_description": {
     "zh-TW": "• 修復錯誤\n• 新增閱讀視窗",
