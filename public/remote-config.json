@@ -4,16 +4,16 @@
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.0.1",
   "ios_update_description": {
-    "zh-TW": "• 新增分類排序功能（設定頁）\n• 鍵盤新增一鍵清空功能",
-    "zh-Hans": "• 新增分类排序功能（设置页）\n• 键盘新增一键清空功能",
-    "en": "• Added category sorting (Settings)\n• Added one-tap clear on the keyboard",
-    "ja": "• カテゴリ並べ替え機能を追加（設定）\n• キーボードにワンタップ消去を追加",
-    "ko": "• 카테고리 정렬 기능 추가 (설정)\n• 키보드에 원탭 지우기 추가",
-    "es": "• Añadido el orden de categorías (Ajustes)\n• Añadido borrado con un toque en el teclado",
-    "fr": "• Ajout du tri des catégories (Réglages)\n• Ajout de l'effacement en un geste sur le clavier",
-    "de": "• Kategorie-Sortierung hinzugefügt (Einstellungen)\n• Löschen per Tipp auf der Tastatur hinzugefügt",
-    "vi": "• Thêm sắp xếp danh mục (Cài đặt)\n• Thêm xóa nhanh một chạm trên bàn phím",
-    "th": "• เพิ่มการจัดเรียงหมวดหมู่ (การตั้งค่า)\n• เพิ่มการล้างด้วยปุ่มเดียวบนแป้นพิมพ์"
+    "zh-TW": "• 設定頁面新增鍵盤排序功能\n• 修復已知錯誤",
+    "zh-Hans": "• 设置页面新增键盘排序功能\n• 修复已知错误",
+    "en": "• Added keyboard snippet sorting in Settings\n• Fixed known bugs",
+    "ja": "• 設定ページにキーボードの並べ替え機能を追加\n• 既知の不具合を修正",
+    "ko": "• 설정 페이지에 키보드 정렬 기능 추가\n• 알려진 버그 수정",
+    "es": "• Añadido el orden del teclado en Ajustes\n• Corrección de errores conocidos",
+    "fr": "• Ajout du tri du clavier dans les Réglages\n• Correction de bugs connus",
+    "de": "• Tastatur-Sortierung in den Einstellungen hinzugefügt\n• Bekannte Fehler behoben",
+    "vi": "• Thêm sắp xếp bàn phím trong Cài đặt\n• Sửa các lỗi đã biết",
+    "th": "• เพิ่มการจัดเรียงแป้นพิมพ์ในการตั้งค่า\n• แก้ไขข้อบกพร่องที่ทราบ"
   },
   "macos_update_description": {
     "zh-TW": "• 修復錯誤\n• 新增閱讀視窗",
