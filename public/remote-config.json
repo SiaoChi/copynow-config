@@ -1,19 +1,19 @@
 {
   "ios_min_version": "1.0.9",
-  "ios_latest_version": "1.0.10",
+  "ios_latest_version": "1.1.0",
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.0.1",
   "ios_update_description": {
-    "zh-TW": "• 設定頁面新增鍵盤排序功能\n• 修復已知錯誤",
-    "zh-Hans": "• 设置页面新增键盘排序功能\n• 修复已知错误",
-    "en": "• Added keyboard snippet sorting in Settings\n• Fixed known bugs",
-    "ja": "• 設定ページにキーボードの並べ替え機能を追加\n• 既知の不具合を修正",
-    "ko": "• 설정 페이지에 키보드 정렬 기능 추가\n• 알려진 버그 수정",
-    "es": "• Añadido el orden del teclado en Ajustes\n• Corrección de errores conocidos",
-    "fr": "• Ajout du tri du clavier dans les Réglages\n• Correction de bugs connus",
-    "de": "• Tastatur-Sortierung in den Einstellungen hinzugefügt\n• Bekannte Fehler behoben",
-    "vi": "• Thêm sắp xếp bàn phím trong Cài đặt\n• Sửa các lỗi đã biết",
-    "th": "• เพิ่มการจัดเรียงแป้นพิมพ์ในการตั้งค่า\n• แก้ไขข้อบกพร่องที่ทราบ"
+    "zh-TW": "• 鍵盤新增分類標籤\n• 鍵盤卡片上限提升至 50",
+    "zh-Hans": "• 键盘新增分类标签\n• 键盘卡片上限提升至 50",
+    "en": "• Added category tags to the keyboard\n• Increased keyboard card limit to 50",
+    "ja": "• キーボードに分類タグを追加\n• キーボードのカード上限を50に拡大",
+    "ko": "• 키보드에 카테고리 태그 추가\n• 키보드 카드 한도를 50개로 확대",
+    "es": "• Añadidas etiquetas de categoría al teclado\n• Aumentado el límite de tarjetas del teclado a 50",
+    "fr": "• Ajout d'étiquettes de catégorie au clavier\n• Limite de cartes du clavier portée à 50",
+    "de": "• Kategorie-Tags zur Tastatur hinzugefügt\n• Kartenlimit der Tastatur auf 50 erhöht",
+    "vi": "• Thêm thẻ danh mục vào bàn phím\n• Tăng giới hạn thẻ bàn phím lên 50",
+    "th": "• เพิ่มแท็กหมวดหมู่ในแป้นพิมพ์\n• เพิ่มขีดจำกัดการ์ดแป้นพิมพ์เป็น 50"
   },
   "macos_update_description": {
     "zh-TW": "• 修復錯誤\n• 新增閱讀視窗",
