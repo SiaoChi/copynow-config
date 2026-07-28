@@ -1,19 +1,19 @@
 {
   "ios_min_version": "1.0.9",
-  "ios_latest_version": "1.1.0",
+  "ios_latest_version": "1.1.2",
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.0.1",
   "ios_update_description": {
-    "zh-TW": "• 鍵盤新增分類標籤\n• 鍵盤卡片上限提升至 50",
-    "zh-Hans": "• 键盘新增分类标签\n• 键盘卡片上限提升至 50",
-    "en": "• Added category tags to the keyboard\n• Increased keyboard card limit to 50",
-    "ja": "• キーボードに分類タグを追加\n• キーボードのカード上限を50に拡大",
-    "ko": "• 키보드에 카테고리 태그 추가\n• 키보드 카드 한도를 50개로 확대",
-    "es": "• Añadidas etiquetas de categoría al teclado\n• Aumentado el límite de tarjetas del teclado a 50",
-    "fr": "• Ajout d'étiquettes de catégorie au clavier\n• Limite de cartes du clavier portée à 50",
-    "de": "• Kategorie-Tags zur Tastatur hinzugefügt\n• Kartenlimit der Tastatur auf 50 erhöht",
-    "vi": "• Thêm thẻ danh mục vào bàn phím\n• Tăng giới hạn thẻ bàn phím lên 50",
-    "th": "• เพิ่มแท็กหมวดหมู่ในแป้นพิมพ์\n• เพิ่มขีดจำกัดการ์ดแป้นพิมพ์เป็น 50"
+    "zh-TW": "• 優化複製內容 UI 介面",
+    "zh-Hans": "• 优化复制内容 UI 界面",
+    "en": "• Improved the copied content UI",
+    "ja": "• コピー内容のUIを改善",
+    "ko": "• 복사 내용 UI 개선",
+    "es": "• Mejorada la interfaz del contenido copiado",
+    "fr": "• Amélioration de l'interface du contenu copié",
+    "de": "• Benutzeroberfläche für kopierte Inhalte verbessert",
+    "vi": "• Cải thiện giao diện nội dung đã sao chép",
+    "th": "• ปรับปรุงหน้าตาส่วนแสดงเนื้อหาที่คัดลอก"
   },
   "macos_update_description": {
     "zh-TW": "• 修復錯誤\n• 新增閱讀視窗",
