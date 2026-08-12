@@ -2,7 +2,7 @@
   "ios_min_version": "1.0.9",
   "ios_latest_version": "1.1.2",
   "macos_min_version": "1.0.0",
-  "macos_latest_version": "1.1.0",
+  "macos_latest_version": "1.0.6",
   "ios_update_description": {
     "zh-TW": "• 優化複製內容 UI 介面",
     "zh-Hans": "• 优化复制内容 UI 界面",
@@ -16,15 +16,15 @@
     "th": "• ปรับปรุงหน้าตาส่วนแสดงเนื้อหาที่คัดลอก"
   },
   "macos_update_description": {
-    "zh-TW": "• 懸浮面板可自由調整大小，卡片版面會隨視窗尺寸自動調整\n• 懸浮視窗可調整透明度\n• 優化主要面板介面\n• 修復已知問題\n• 新增懸浮面板佈景主題選項",
-    "zh-Hans": "• 悬浮面板可自由调整大小，卡片版面会随窗口尺寸自动调整\n• 悬浮窗口可调整透明度\n• 优化主面板界面\n• 修复已知问题\n• 新增悬浮面板主题选项",
-    "en": "• Floating panel is now freely resizable, with card layout adapting automatically to window size\n• Adjustable transparency for the floating window\n• Improved main panel interface\n• Fixed known issues\n• Added theme options for the floating panel",
-    "ja": "• フローティングパネルのサイズを自由に調整可能に。カードレイアウトはウィンドウサイズに応じて自動調整されます\n• フローティングウィンドウの透明度を調整可能に\n• メインパネルのインターフェースを改善\n• 既知の問題を修正\n• フローティングパネルのテーマオプションを追加",
-    "ko": "• 플로팅 패널 크기를 자유롭게 조절할 수 있으며, 카드 레이아웃이 창 크기에 따라 자동으로 조정됩니다\n• 플로팅 창의 투명도 조절 가능\n• 메인 패널 인터페이스 개선\n• 알려진 문제 수정\n• 플로팅 패널 테마 옵션 추가",
-    "es": "• El panel flotante ahora se puede redimensionar libremente, y el diseño de las tarjetas se ajusta automáticamente al tamaño de la ventana\n• Transparencia ajustable para la ventana flotante\n• Interfaz del panel principal mejorada\n• Corrección de errores conocidos\n• Se agregaron opciones de tema para el panel flotante",
-    "fr": "• Le panneau flottant est désormais redimensionnable librement, et la disposition des cartes s'ajuste automatiquement à la taille de la fenêtre\n• Transparence réglable pour la fenêtre flottante\n• Interface du panneau principal améliorée\n• Correction de bugs connus\n• Ajout d'options de thème pour le panneau flottant",
-    "de": "• Das Schwebe-Panel ist jetzt frei skalierbar, das Kartenlayout passt sich automatisch an die Fenstergröße an\n• Einstellbare Transparenz für das Schwebefenster\n• Verbesserte Oberfläche des Hauptpanels\n• Bekannte Probleme behoben\n• Themenoptionen für das Schwebe-Panel hinzugefügt",
-    "vi": "• Bảng nổi giờ có thể tự do thay đổi kích thước, bố cục thẻ sẽ tự động điều chỉnh theo kích thước cửa sổ\n• Có thể điều chỉnh độ trong suốt của cửa sổ nổi\n• Cải thiện giao diện bảng chính\n• Sửa các lỗi đã biết\n• Thêm tùy chọn giao diện chủ đề cho bảng nổi",
-    "th": "• ปรับขนาดแผงลอยได้อย่างอิสระ เลย์เอาต์การ์ดจะปรับตามขนาดหน้าต่างโดยอัตโนมัติ\n• ปรับความโปร่งใสของหน้าต่างลอยได้\n• ปรับปรุงอินเทอร์เฟซแผงหลัก\n• แก้ไขปัญหาที่ทราบ\n• เพิ่มตัวเลือกธีมสำหรับแผงลอย"
+    "zh-TW": "• 修復錯誤\n• 新增閱讀視窗",
+    "zh-Hans": "• 修复错误\n• 新增阅读窗口",
+    "en": "• Bug fixes\n• New read view",
+    "ja": "• バグ修正\n• 閲覧ウィンドウを追加",
+    "ko": "• 버그 수정\n• 읽기 창 추가",
+    "es": "• Corrección de errores\n• Nueva ventana de lectura",
+    "fr": "• Correction de bugs\n• Nouvelle fenêtre de lecture",
+    "de": "• Fehlerbehebungen\n• Neues Lesefenster",
+    "vi": "• Sửa lỗi\n• Thêm cửa sổ đọc mới",
+    "th": "• แก้ไขข้อบกพร่อง\n• เพิ่มหน้าต่างอ่านใหม่"
   }
 }
