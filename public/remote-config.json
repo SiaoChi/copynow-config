@@ -2,7 +2,7 @@
   "ios_min_version": "1.0.9",
   "ios_latest_version": "1.1.2",
   "macos_min_version": "1.0.0",
-  "macos_latest_version": "1.0.6",
+  "macos_latest_version": "9.9.9",
   "ios_update_description": {
     "zh-TW": "• 優化複製內容 UI 介面",
     "zh-Hans": "• 优化复制内容 UI 界面",
