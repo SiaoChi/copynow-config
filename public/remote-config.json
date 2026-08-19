@@ -1,19 +1,19 @@
 {
   "ios_min_version": "1.0.9",
-  "ios_latest_version": "1.1.4",
+  "ios_latest_version": "1.1.5",
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.0.6",
   "ios_update_description": {
-    "zh-TW": "• 新增剪貼簿監測：在設定頁開啟「自動偵測剪貼簿」\n• 在其他 App 複製文字後打開 CopyNow，自動建立卡片",
-    "zh-Hans": "• 新增剪贴板监测：在设置页开启「自动检测剪贴板」\n• 在其他 App 复制文字后打开 CopyNow，自动创建卡片",
-    "en": "• New clipboard monitoring: turn on \"Auto-detect clipboard\" in Settings\n• Copy text in any app, then open CopyNow to create a card automatically",
-    "ja": "• クリップボード監視を追加：設定で「クリップボードを自動検出」をオン\n• 他のAppでテキストをコピーしてCopyNowを開くと、カードを自動作成",
-    "ko": "• 클립보드 모니터링 추가: 설정에서 '클립보드 자동 감지' 켜기\n• 다른 앱에서 텍스트를 복사한 뒤 CopyNow를 열면 카드가 자동 생성",
-    "es": "• Nuevo monitoreo del portapapeles: activa \"Detectar portapapeles automáticamente\" en Ajustes\n• Copia texto en otra app y abre CopyNow para crear una tarjeta automáticamente",
-    "fr": "• Nouvelle surveillance du presse-papiers : activez « Détection automatique du presse-papiers » dans les Réglages\n• Copiez du texte dans une autre app, puis ouvrez CopyNow pour créer une carte automatiquement",
-    "de": "• Neue Zwischenablage-Überwachung: „Zwischenablage automatisch erkennen“ in den Einstellungen aktivieren\n• Text in einer anderen App kopieren und CopyNow öffnen – die Karte wird automatisch erstellt",
-    "vi": "• Thêm giám sát bảng nhớ tạm: bật \"Tự động phát hiện bảng nhớ tạm\" trong Cài đặt\n• Sao chép văn bản ở app khác rồi mở CopyNow để tự động tạo thẻ",
-    "th": "• เพิ่มการตรวจจับคลิปบอร์ด: เปิด \"ตรวจจับคลิปบอร์ดอัตโนมัติ\" ในหน้าตั้งค่า\n• คัดลอกข้อความในแอปอื่นแล้วเปิด CopyNow เพื่อสร้างการ์ดอัตโนมัติ"
+    "zh-TW": "• 卡片新增顏色選擇\n• 新增排序功能",
+    "zh-Hans": "• 卡片新增颜色选择\n• 新增排序功能",
+    "en": "• Choose a color for each card\n• New sorting options",
+    "ja": "• カードに色の選択を追加\n• 並べ替え機能を追加",
+    "ko": "• 카드 색상 선택 추가\n• 정렬 기능 추가",
+    "es": "• Elige un color para cada tarjeta\n• Nuevas opciones de ordenación",
+    "fr": "• Choisissez une couleur pour chaque carte\n• Nouvelles options de tri",
+    "de": "• Farbauswahl für Karten hinzugefügt\n• Neue Sortierfunktion",
+    "vi": "• Thêm lựa chọn màu cho thẻ\n• Thêm chức năng sắp xếp",
+    "th": "• เพิ่มการเลือกสีให้การ์ด\n• เพิ่มฟังก์ชันจัดเรียง"
   },
   "macos_update_description": {
     "zh-TW": "• 修復錯誤\n• 新增閱讀視窗",
