@@ -1,19 +1,19 @@
 {
   "ios_min_version": "1.0.9",
-  "ios_latest_version": "1.1.5",
+  "ios_latest_version": "1.1.6",
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.1.2",
   "ios_update_description": {
-    "zh-TW": "• 卡片新增顏色選擇\n• 新增排序功能",
-    "zh-Hans": "• 卡片新增颜色选择\n• 新增排序功能",
-    "en": "• Choose a color for each card\n• New sorting options",
-    "ja": "• カードに色の選択を追加\n• 並べ替え機能を追加",
-    "ko": "• 카드 색상 선택 추가\n• 정렬 기능 추가",
-    "es": "• Elige un color para cada tarjeta\n• Nuevas opciones de ordenación",
-    "fr": "• Choisissez une couleur pour chaque carte\n• Nouvelles options de tri",
-    "de": "• Farbauswahl für Karten hinzugefügt\n• Neue Sortierfunktion",
-    "vi": "• Thêm lựa chọn màu cho thẻ\n• Thêm chức năng sắp xếp",
-    "th": "• เพิ่มการเลือกสีให้การ์ด\n• เพิ่มฟังก์ชันจัดเรียง"
+    "zh-TW": "• 首頁新增卡片顏色篩選工具\n• 鍵盤新增三種顏色主題",
+    "zh-Hans": "• 首页新增卡片颜色筛选工具\n• 键盘新增三种颜色主题",
+    "en": "• Filter cards by color on the home screen\n• Three new color themes for the keyboard",
+    "ja": "• ホーム画面にカードの色フィルターを追加\n• キーボードに3種類のカラーテーマを追加",
+    "ko": "• 홈 화면에 카드 색상 필터 추가\n• 키보드에 세 가지 색상 테마 추가",
+    "es": "• Filtra tarjetas por color en la pantalla de inicio\n• Tres nuevos temas de color para el teclado",
+    "fr": "• Filtrez les cartes par couleur sur l'écran d'accueil\n• Trois nouveaux thèmes de couleur pour le clavier",
+    "de": "• Karten auf dem Startbildschirm nach Farbe filtern\n• Drei neue Farbthemen für die Tastatur",
+    "vi": "• Lọc thẻ theo màu trên màn hình chính\n• Thêm ba chủ đề màu cho bàn phím",
+    "th": "• เพิ่มตัวกรองสีการ์ดในหน้าแรก\n• เพิ่มธีมสี 3 แบบให้คีย์บอร์ด"
   },
   "macos_update_description": {
     "zh-TW": "• 浮動面板改為自選卡片，在主視窗把常用的加進來\n• 卡片可以選顏色，並依顏色篩選\n• 新增排序功能\n• 設定文字放大，卡片樣式可預覽",
