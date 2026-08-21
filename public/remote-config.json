@@ -2,7 +2,7 @@
   "ios_min_version": "1.0.9",
   "ios_latest_version": "1.1.5",
   "macos_min_version": "1.0.0",
-  "macos_latest_version": "1.0.6",
+  "macos_latest_version": "1.1.2",
   "ios_update_description": {
     "zh-TW": "• 卡片新增顏色選擇\n• 新增排序功能",
     "zh-Hans": "• 卡片新增颜色选择\n• 新增排序功能",
@@ -16,15 +16,15 @@
     "th": "• เพิ่มการเลือกสีให้การ์ด\n• เพิ่มฟังก์ชันจัดเรียง"
   },
   "macos_update_description": {
-    "zh-TW": "• 修復錯誤\n• 新增閱讀視窗",
-    "zh-Hans": "• 修复错误\n• 新增阅读窗口",
-    "en": "• Bug fixes\n• New read view",
-    "ja": "• バグ修正\n• 閲覧ウィンドウを追加",
-    "ko": "• 버그 수정\n• 읽기 창 추가",
-    "es": "• Corrección de errores\n• Nueva ventana de lectura",
-    "fr": "• Correction de bugs\n• Nouvelle fenêtre de lecture",
-    "de": "• Fehlerbehebungen\n• Neues Lesefenster",
-    "vi": "• Sửa lỗi\n• Thêm cửa sổ đọc mới",
-    "th": "• แก้ไขข้อบกพร่อง\n• เพิ่มหน้าต่างอ่านใหม่"
+    "zh-TW": "• 浮動面板改為自選卡片，在主視窗把常用的加進來\n• 卡片可以選顏色，並依顏色篩選\n• 新增排序功能\n• 設定文字放大，卡片樣式可預覽",
+    "zh-Hans": "• 浮动窗口改为自选卡片，在主窗口把常用的加进来\n• 卡片可以选颜色，并按颜色筛选\n• 新增排序功能\n• 设置文字放大，卡片样式可预览",
+    "en": "• The floating panel now shows only the cards you add to it\n• Pick a colour for each card, and filter by colour\n• New sorting options\n• Larger text in Settings, with a card style preview",
+    "ja": "• パネルに表示するカードを自分で選べるようになりました\n• カードに色を設定でき、色で絞り込めます\n• 並べ替え機能を追加\n• 設定の文字を大きく、カードスタイルのプレビューを追加",
+    "ko": "• 패널에 표시할 카드를 직접 고를 수 있습니다\n• 카드에 색상을 지정하고 색상으로 필터링할 수 있습니다\n• 정렬 기능 추가\n• 설정 글자 확대, 카드 스타일 미리보기 추가",
+    "es": "• El panel ahora solo muestra las tarjetas que añades\n• Elige un color para cada tarjeta y filtra por color\n• Nuevas opciones de ordenación\n• Texto más grande en Ajustes, con vista previa de los estilos",
+    "fr": "• Le panneau n'affiche plus que les cartes que vous y ajoutez\n• Choisissez une couleur par carte et filtrez par couleur\n• Nouvelles options de tri\n• Texte plus grand dans les réglages, avec aperçu des styles de carte",
+    "de": "• Das Panel zeigt jetzt nur noch die Karten, die du hinzufügst\n• Farbe pro Karte wählen und nach Farbe filtern\n• Neue Sortierfunktion\n• Größere Schrift in den Einstellungen, mit Vorschau der Kartenstile",
+    "vi": "• Bảng nổi chỉ hiển thị những thẻ bạn thêm vào\n• Chọn màu cho từng thẻ và lọc theo màu\n• Thêm chức năng sắp xếp\n• Chữ lớn hơn trong Cài đặt, kèm xem trước kiểu thẻ",
+    "th": "• แผงลอยจะแสดงเฉพาะการ์ดที่คุณเพิ่มเข้าไป\n• เลือกสีให้การ์ดและกรองตามสีได้\n• เพิ่มฟังก์ชันจัดเรียง\n• ตัวอักษรในการตั้งค่าใหญ่ขึ้น พร้อมตัวอย่างสไตล์การ์ด"
   }
 }
