@@ -1,19 +1,19 @@
 {
-  "ios_min_version": "1.0.9",
-  "ios_latest_version": "1.1.7",
+  "ios_min_version": "1.2.0",
+  "ios_latest_version": "1.2.0",
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.1.2",
   "ios_update_description": {
-    "zh-TW": "• 鍵盤可加入的卡片上限提高到 100 張\n• 卡片內容上限提高到 4000 字（加入鍵盤的卡片仍限 2000 字內，維持鍵盤效率）",
-    "zh-Hans": "• 键盘可加入的卡片上限提高到 100 张\n• 卡片内容上限提高到 4000 字（加入键盘的卡片仍限 2000 字内，保持键盘效率）",
-    "en": "• You can now add up to 100 cards to the keyboard\n• Card content limit raised to 4,000 characters (cards added to the keyboard stay capped at 2,000 to keep the keyboard fast)",
-    "ja": "• キーボードに追加できるカードが最大100枚になりました\n• カードの文字数上限を4,000字に拡大（キーボードに追加するカードは動作を軽く保つため2,000字までです）",
-    "ko": "• 키보드에 추가할 수 있는 카드가 최대 100개로 늘어났습니다\n• 카드 내용 제한이 4,000자로 확대되었습니다(키보드에 추가하는 카드는 속도 유지를 위해 2,000자까지)",
-    "es": "• Ahora puedes añadir hasta 100 tarjetas al teclado\n• El límite del contenido de las tarjetas sube a 4.000 caracteres (las tarjetas añadidas al teclado siguen limitadas a 2.000 para mantener su rapidez)",
-    "fr": "• Vous pouvez désormais ajouter jusqu'à 100 cartes au clavier\n• La limite du contenu des cartes passe à 4 000 caractères (les cartes ajoutées au clavier restent limitées à 2 000 pour garder le clavier rapide)",
-    "de": "• Du kannst jetzt bis zu 100 Karten zur Tastatur hinzufügen\n• Das Limit für Karteninhalte steigt auf 4.000 Zeichen (Karten in der Tastatur bleiben bei 2.000 Zeichen, damit sie schnell bleibt)",
-    "vi": "• Bạn có thể thêm tối đa 100 thẻ vào bàn phím\n• Nội dung thẻ tăng lên tối đa 4.000 ký tự (thẻ thêm vào bàn phím vẫn giới hạn 2.000 ký tự để bàn phím luôn mượt)",
-    "th": "• เพิ่มการ์ดเข้าคีย์บอร์ดได้สูงสุด 100 ใบแล้ว\n• เนื้อหาการ์ดรองรับได้ถึง 4,000 ตัวอักษร (การ์ดที่เพิ่มเข้าคีย์บอร์ดยังจำกัดที่ 2,000 ตัวอักษรเพื่อให้คีย์บอร์ดทำงานลื่นไหล)"
+    "zh-TW": "• 新增分類匯出、匯入功能\n• 分享資料更容易，換裝置或備份都方便",
+    "zh-Hans": "• 新增分类导出、导入功能\n• 分享数据更容易，换设备或备份都方便",
+    "en": "• New: export and import categories\n• Sharing your data is easier — great for backups or switching devices",
+    "ja": "• カテゴリの書き出し・読み込みに対応\n• データの共有が簡単に。バックアップや端末の移行も安心",
+    "ko": "• 카테고리 내보내기·가져오기 기능 추가\n• 데이터 공유가 더 쉬워져 백업이나 기기 변경도 간편합니다",
+    "es": "• Nuevo: exporta e importa categorías\n• Compartir tus datos es más fácil, ideal para copias de seguridad o cambiar de dispositivo",
+    "fr": "• Nouveau : exportez et importez vos catégories\n• Le partage de vos données devient plus simple, pratique pour les sauvegardes ou changer d'appareil",
+    "de": "• Neu: Kategorien exportieren und importieren\n• Daten teilen ist jetzt einfacher – ideal für Backups oder den Gerätewechsel",
+    "vi": "• Tính năng mới: xuất và nhập danh mục\n• Chia sẻ dữ liệu dễ dàng hơn, tiện cho sao lưu hoặc đổi thiết bị",
+    "th": "• ฟีเจอร์ใหม่: ส่งออกและนำเข้าหมวดหมู่\n• แชร์ข้อมูลได้ง่ายขึ้น สะดวกทั้งการสำรองข้อมูลและย้ายเครื่อง"
   },
   "macos_update_description": {
     "zh-TW": "• 浮動面板改為自選卡片，在主視窗把常用的加進來\n• 卡片可以選顏色，並依顏色篩選\n• 新增排序功能\n• 設定文字放大，卡片樣式可預覽",
