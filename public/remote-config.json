@@ -1,19 +1,19 @@
 {
   "ios_min_version": "1.2.0",
-  "ios_latest_version": "1.2.0",
+  "ios_latest_version": "1.3.0",
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.1.2",
   "ios_update_description": {
-    "zh-TW": "• 新增分類匯出、匯入功能\n• 分享資料更容易，換裝置或備份都方便",
-    "zh-Hans": "• 新增分类导出、导入功能\n• 分享数据更容易，换设备或备份都方便",
-    "en": "• New: export and import categories\n• Sharing your data is easier — great for backups or switching devices",
-    "ja": "• カテゴリの書き出し・読み込みに対応\n• データの共有が簡単に。バックアップや端末の移行も安心",
-    "ko": "• 카테고리 내보내기·가져오기 기능 추가\n• 데이터 공유가 더 쉬워져 백업이나 기기 변경도 간편합니다",
-    "es": "• Nuevo: exporta e importa categorías\n• Compartir tus datos es más fácil, ideal para copias de seguridad o cambiar de dispositivo",
-    "fr": "• Nouveau : exportez et importez vos catégories\n• Le partage de vos données devient plus simple, pratique pour les sauvegardes ou changer d'appareil",
-    "de": "• Neu: Kategorien exportieren und importieren\n• Daten teilen ist jetzt einfacher – ideal für Backups oder den Gerätewechsel",
-    "vi": "• Tính năng mới: xuất và nhập danh mục\n• Chia sẻ dữ liệu dễ dàng hơn, tiện cho sao lưu hoặc đổi thiết bị",
-    "th": "• ฟีเจอร์ใหม่: ส่งออกและนำเข้าหมวดหมู่\n• แชร์ข้อมูลได้ง่ายขึ้น สะดวกทั้งการสำรองข้อมูลและย้ายเครื่อง"
+    "zh-TW": "• 新增批次新增、刪除鍵盤快捷功能\n• 請到「設定 > 管理鍵盤快捷」使用",
+    "zh-Hans": "• 新增批量添加、删除键盘快捷功能\n• 请到「设置 > 管理键盘快捷」使用",
+    "en": "• Add or delete keyboard shortcuts in bulk\n• Find it in Settings > Manage Keyboard Shortcuts",
+    "ja": "• キーボードショートカットの一括追加・削除に対応\n• 「設定 > キーボードショートカットの管理」からご利用ください",
+    "ko": "• 키보드 단축키를 한 번에 추가·삭제할 수 있습니다\n• 「설정 > 키보드 단축키 관리」에서 사용하세요",
+    "es": "• Añade o elimina atajos de teclado en lote\n• Disponible en Ajustes > Gestionar atajos de teclado",
+    "fr": "• Ajoutez ou supprimez des raccourcis clavier en lot\n• Rendez-vous dans Réglages > Gérer les raccourcis clavier",
+    "de": "• Tastaturkürzel lassen sich jetzt gesammelt hinzufügen und löschen\n• Zu finden unter Einstellungen > Tastaturkürzel verwalten",
+    "vi": "• Thêm và xoá phím tắt bàn phím hàng loạt\n• Vào Cài đặt > Quản lý phím tắt bàn phím để dùng",
+    "th": "• เพิ่มและลบปุ่มลัดคีย์บอร์ดได้ทีละหลายรายการ\n• ใช้งานได้ที่ ตั้งค่า > จัดการปุ่มลัดคีย์บอร์ด"
   },
   "macos_update_description": {
     "zh-TW": "• 浮動面板改為自選卡片，在主視窗把常用的加進來\n• 卡片可以選顏色，並依顏色篩選\n• 新增排序功能\n• 設定文字放大，卡片樣式可預覽",
