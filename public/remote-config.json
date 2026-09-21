@@ -4,16 +4,16 @@
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.1.2",
   "ios_update_description": {
-    "zh-TW": "• 新增「移動卡片」：一次把多張卡片換到另一個分類\n• 請到「設定 > 移動卡片」使用",
-    "zh-Hans": "• 新增「移动卡片」：一次把多张卡片换到另一个分类\n• 请到「设置 > 移动卡片」使用",
-    "en": "• New: Move Cards — move many cards to another category at once\n• Find it in Settings > Move Cards",
-    "ja": "• 「カードを移動」を追加：複数のカードをまとめて別のカテゴリへ\n• 「設定 > カードを移動」からご利用ください",
-    "ko": "• 「카드 이동」 추가: 여러 장의 카드를 한 번에 다른 카테고리로\n• 「설정 > 카드 이동」에서 사용하세요",
-    "es": "• Nuevo: Mover tarjetas — cambia varias tarjetas de categoría a la vez\n• Disponible en Ajustes > Mover tarjetas",
-    "fr": "• Nouveau : Déplacer des cartes — changez plusieurs cartes de catégorie d'un coup\n• Rendez-vous dans Réglages > Déplacer des cartes",
-    "de": "• Neu: Karten verschieben — mehrere Karten auf einmal in eine andere Kategorie\n• Zu finden unter Einstellungen > Karten verschieben",
-    "vi": "• Mới: Di chuyển thẻ — chuyển nhiều thẻ sang danh mục khác cùng lúc\n• Vào Cài đặt > Di chuyển thẻ để dùng",
-    "th": "• ใหม่: ย้ายการ์ด — ย้ายการ์ดหลายใบไปหมวดหมู่อื่นได้ในครั้งเดียว\n• ใช้งานได้ที่ ตั้งค่า > ย้ายการ์ด"
+    "zh-TW": "• 卡片想大量更換分類嗎？新增批量卡片移動功能\n• 請到「設定」頁面的卡片區使用",
+    "zh-Hans": "• 卡片想批量更换分类吗？新增批量卡片移动功能\n• 请到「设置」页面的卡片区使用",
+    "en": "• Want to recategorise lots of cards at once? Bulk card move is here\n• Find it in the Cards section of Settings",
+    "ja": "• カードのカテゴリをまとめて変えたい？一括カード移動を追加しました\n• 「設定」ページのカード欄からご利用ください",
+    "ko": "• 카드 분류를 한꺼번에 바꾸고 싶나요? 카드 일괄 이동 기능이 추가됐어요\n• 「설정」 페이지의 카드 영역에서 사용하세요",
+    "es": "• ¿Quieres recategorizar muchas tarjetas a la vez? Llega el movimiento masivo de tarjetas\n• Disponible en la sección Tarjetas de Ajustes",
+    "fr": "• Envie de reclasser de nombreuses cartes d'un coup ? Le déplacement groupé arrive\n• À retrouver dans la section Cartes des Réglages",
+    "de": "• Viele Karten auf einmal umsortieren? Das Massen-Verschieben von Karten ist da\n• Zu finden im Bereich „Karten“ in den Einstellungen",
+    "vi": "• Muốn đổi danh mục hàng loạt thẻ? Đã có tính năng di chuyển thẻ hàng loạt\n• Dùng tại mục Thẻ trong trang Cài đặt",
+    "th": "• อยากเปลี่ยนหมวดหมู่การ์ดทีละหลายใบไหม? เพิ่มการย้ายการ์ดแบบกลุ่มแล้ว\n• ใช้งานได้ที่ส่วนการ์ดในหน้าตั้งค่า"
   },
   "macos_update_description": {
     "zh-TW": "• 浮動面板改為自選卡片，在主視窗把常用的加進來\n• 卡片可以選顏色，並依顏色篩選\n• 新增排序功能\n• 設定文字放大，卡片樣式可預覽",
