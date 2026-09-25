@@ -1,19 +1,19 @@
 {
   "ios_min_version": "1.2.0",
-  "ios_latest_version": "1.5.0",
+  "ios_latest_version": "1.4.0",
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.1.2",
   "ios_update_description": {
-    "zh-TW": "• 鍵盤新增依卡片顏色篩選，想找的卡片一秒就到\n• 鍵盤新增樣式設定，可自選要顯示的卡片顏色\n• 新增排序功能，可從最新排到最舊\n• 卡片顏色再多兩色可選",
-    "zh-Hans": "• 键盘新增按卡片颜色筛选，想找的卡片一秒就到\n• 键盘新增样式设置，可自选要显示的卡片颜色\n• 新增排序功能，可从最新排到最旧\n• 卡片颜色再多两色可选",
-    "en": "• The keyboard can now filter cards by colour — find what you need instantly\n• New keyboard style settings: choose which card colours to show\n• New sorting option, newest to oldest\n• Two more card colours to pick from",
-    "ja": "• キーボードでカードの色による絞り込みができるようになりました\n• キーボードのスタイル設定を追加し、表示するカードの色を選べます\n• 並べ替え機能を追加（新しい順）\n• カードの色に2色を追加",
-    "ko": "• 키보드에서 카드 색상으로 필터링할 수 있습니다\n• 키보드 스타일 설정 추가, 표시할 카드 색상을 고를 수 있어요\n• 정렬 기능 추가, 최신순으로 볼 수 있습니다\n• 카드 색상 2종 추가",
-    "es": "• El teclado ya filtra las tarjetas por color: encuentra lo que buscas al instante\n• Nuevos ajustes de estilo del teclado: elige qué colores de tarjeta mostrar\n• Nueva ordenación, de la más reciente a la más antigua\n• Dos colores de tarjeta más para elegir",
-    "fr": "• Le clavier filtre désormais les cartes par couleur : trouvez la bonne en un instant\n• Nouveaux réglages de style du clavier : choisissez les couleurs de cartes affichées\n• Nouveau tri, de la plus récente à la plus ancienne\n• Deux couleurs de carte supplémentaires",
-    "de": "• Die Tastatur filtert Karten jetzt nach Farbe – sofort die richtige finden\n• Neue Stil-Einstellungen der Tastatur: wähle, welche Kartenfarben angezeigt werden\n• Neue Sortierung, von neu nach alt\n• Zwei zusätzliche Kartenfarben zur Auswahl",
-    "vi": "• Bàn phím đã lọc được thẻ theo màu, tìm thẻ nhanh trong tích tắc\n• Thêm thiết lập kiểu bàn phím, tự chọn màu thẻ muốn hiển thị\n• Thêm chức năng sắp xếp, từ mới nhất đến cũ nhất\n• Bổ sung thêm hai màu thẻ",
-    "th": "• คีย์บอร์ดกรองการ์ดตามสีได้แล้ว หาการ์ดที่ต้องการได้ในพริบตา\n• เพิ่มการตั้งค่าสไตล์คีย์บอร์ด เลือกสีการ์ดที่จะแสดงได้\n• เพิ่มการจัดเรียง จากใหม่สุดไปเก่าสุด\n• เพิ่มสีการ์ดให้เลือกอีก 2 สี"
+    "zh-TW": "• 卡片想大量更換分類嗎？新增批量卡片移動功能\n• 請到「設定」頁面的卡片區使用",
+    "zh-Hans": "• 卡片想批量更换分类吗？新增批量卡片移动功能\n• 请到「设置」页面的卡片区使用",
+    "en": "• Want to recategorise lots of cards at once? Bulk card move is here\n• Find it in the Cards section of Settings",
+    "ja": "• カードのカテゴリをまとめて変えたい？一括カード移動を追加しました\n• 「設定」ページのカード欄からご利用ください",
+    "ko": "• 카드 분류를 한꺼번에 바꾸고 싶나요? 카드 일괄 이동 기능이 추가됐어요\n• 「설정」 페이지의 카드 영역에서 사용하세요",
+    "es": "• ¿Quieres recategorizar muchas tarjetas a la vez? Llega el movimiento masivo de tarjetas\n• Disponible en la sección Tarjetas de Ajustes",
+    "fr": "• Envie de reclasser de nombreuses cartes d'un coup ? Le déplacement groupé arrive\n• À retrouver dans la section Cartes des Réglages",
+    "de": "• Viele Karten auf einmal umsortieren? Das Massen-Verschieben von Karten ist da\n• Zu finden im Bereich „Karten“ in den Einstellungen",
+    "vi": "• Muốn đổi danh mục hàng loạt thẻ? Đã có tính năng di chuyển thẻ hàng loạt\n• Dùng tại mục Thẻ trong trang Cài đặt",
+    "th": "• อยากเปลี่ยนหมวดหมู่การ์ดทีละหลายใบไหม? เพิ่มการย้ายการ์ดแบบกลุ่มแล้ว\n• ใช้งานได้ที่ส่วนการ์ดในหน้าตั้งค่า"
   },
   "macos_update_description": {
     "zh-TW": "• 浮動面板改為自選卡片，在主視窗把常用的加進來\n• 卡片可以選顏色，並依顏色篩選\n• 新增排序功能\n• 設定文字放大，卡片樣式可預覽",
