@@ -4,16 +4,16 @@
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.1.2",
   "ios_update_description": {
-    "zh-TW": "• 鍵盤排序：直接拖曳按鍵，即時看到實際鍵盤的樣子\n• 批次加入鍵盤：在和你首頁一樣的卡片畫面裡，點一下就加入\n• 長按卡片：快速選擇卡片顏色",
-    "zh-Hans": "• 键盘排序：直接拖动按键，实时看到实际键盘的样子\n• 批量加入键盘：在和你首页一样的卡片画面里，点一下就加入\n• 长按卡片：快速选择卡片颜色",
-    "en": "• Keyboard Order: drag keys and see exactly how your keyboard will look\n• Bulk Add to Keyboard: tap cards to add them, in the same layout as your home screen\n• Long-press a card to quickly pick its colour",
-    "ja": "• キーボードの並び順：キーをドラッグすると、実際のキーボードの見た目がそのまま確認できます\n• キーボードにまとめて追加：ホーム画面と同じカード表示で、タップするだけで追加\n• カードを長押しして、色をすばやく選択",
-    "ko": "• 키보드 순서: 키를 드래그하면 실제 키보드 모습을 바로 확인할 수 있어요\n• 키보드에 한꺼번에 추가: 홈 화면과 같은 카드 화면에서 탭 한 번으로 추가\n• 카드를 길게 눌러 색상을 빠르게 선택",
-    "es": "• Orden del teclado: arrastra las teclas y ve cómo queda tu teclado real\n• Añadir al teclado en lote: toca las tarjetas para añadirlas, con el mismo diseño que tu pantalla de inicio\n• Mantén pulsada una tarjeta para elegir su color rápidamente",
-    "fr": "• Ordre du clavier : faites glisser les touches et voyez votre vrai clavier\n• Ajouter au clavier en lot : touchez les cartes pour les ajouter, dans la même disposition que votre écran d'accueil\n• Appui long sur une carte pour choisir rapidement sa couleur",
-    "de": "• Tastaturreihenfolge: Tasten ziehen und sofort sehen, wie deine Tastatur aussieht\n• Mehrere zur Tastatur hinzufügen: Karten antippen – im selben Layout wie dein Startbildschirm\n• Karte lange drücken, um schnell ihre Farbe zu wählen",
-    "vi": "• Thứ tự bàn phím: kéo phím và thấy ngay bàn phím thực tế trông thế nào\n• Thêm hàng loạt vào bàn phím: chạm thẻ để thêm, với bố cục giống màn hình chính của bạn\n• Nhấn giữ thẻ để chọn màu nhanh",
-    "th": "• ลำดับแป้นพิมพ์: ลากปุ่มแล้วเห็นหน้าตาแป้นพิมพ์จริงทันที\n• เพิ่มลงแป้นพิมพ์ทีละหลายการ์ด: แตะการ์ดเพื่อเพิ่ม ในหน้าจอแบบเดียวกับหน้าหลักของคุณ\n• กดการ์ดค้างไว้เพื่อเลือกสีได้อย่างรวดเร็ว"
+    "zh-TW": "• 鍵盤排序：直接拖曳按鍵，即時看到實際鍵盤的樣子\n• 批次加入鍵盤：在和你首頁一樣的卡片畫面裡，點一下就加入\n• 長按卡片：快速選擇卡片顏色\n• 搜尋升級：除了標題，也會搜尋卡片內文",
+    "zh-Hans": "• 键盘排序：直接拖动按键，实时看到实际键盘的样子\n• 批量加入键盘：在和你首页一样的卡片画面里，点一下就加入\n• 长按卡片：快速选择卡片颜色\n• 搜索升级：除了标题，也会搜索卡片内文",
+    "en": "• Keyboard Order: drag keys and see exactly how your keyboard will look\n• Bulk Add to Keyboard: tap cards to add them, in the same layout as your home screen\n• Long-press a card to quickly pick its colour\n• Search now matches card content, not just titles",
+    "ja": "• キーボードの並び順：キーをドラッグすると、実際のキーボードの見た目がそのまま確認できます\n• キーボードにまとめて追加：ホーム画面と同じカード表示で、タップするだけで追加\n• カードを長押しして、色をすばやく選択\n• 検索がカードの本文にも対応しました（タイトルだけでなく）",
+    "ko": "• 키보드 순서: 키를 드래그하면 실제 키보드 모습을 바로 확인할 수 있어요\n• 키보드에 한꺼번에 추가: 홈 화면과 같은 카드 화면에서 탭 한 번으로 추가\n• 카드를 길게 눌러 색상을 빠르게 선택\n• 검색 개선: 제목뿐 아니라 카드 내용까지 검색해요",
+    "es": "• Orden del teclado: arrastra las teclas y ve cómo queda tu teclado real\n• Añadir al teclado en lote: toca las tarjetas para añadirlas, con el mismo diseño que tu pantalla de inicio\n• Mantén pulsada una tarjeta para elegir su color rápidamente\n• La búsqueda ahora también encuentra el contenido de las tarjetas, no solo los títulos",
+    "fr": "• Ordre du clavier : faites glisser les touches et voyez votre vrai clavier\n• Ajouter au clavier en lot : touchez les cartes pour les ajouter, dans la même disposition que votre écran d'accueil\n• Appui long sur une carte pour choisir rapidement sa couleur\n• La recherche porte désormais aussi sur le contenu des cartes, pas seulement les titres",
+    "de": "• Tastaturreihenfolge: Tasten ziehen und sofort sehen, wie deine Tastatur aussieht\n• Mehrere zur Tastatur hinzufügen: Karten antippen – im selben Layout wie dein Startbildschirm\n• Karte lange drücken, um schnell ihre Farbe zu wählen\n• Die Suche findet jetzt auch Karteninhalte, nicht nur Titel",
+    "vi": "• Thứ tự bàn phím: kéo phím và thấy ngay bàn phím thực tế trông thế nào\n• Thêm hàng loạt vào bàn phím: chạm thẻ để thêm, với bố cục giống màn hình chính của bạn\n• Nhấn giữ thẻ để chọn màu nhanh\n• Tìm kiếm giờ khớp cả nội dung thẻ, không chỉ tiêu đề",
+    "th": "• ลำดับแป้นพิมพ์: ลากปุ่มแล้วเห็นหน้าตาแป้นพิมพ์จริงทันที\n• เพิ่มลงแป้นพิมพ์ทีละหลายการ์ด: แตะการ์ดเพื่อเพิ่ม ในหน้าจอแบบเดียวกับหน้าหลักของคุณ\n• กดการ์ดค้างไว้เพื่อเลือกสีได้อย่างรวดเร็ว\n• การค้นหาครอบคลุมเนื้อหาการ์ดด้วย ไม่ใช่แค่ชื่อ"
   },
   "macos_update_description": {
     "zh-TW": "• 浮動面板改為自選卡片，在主視窗把常用的加進來\n• 卡片可以選顏色，並依顏色篩選\n• 新增排序功能\n• 設定文字放大，卡片樣式可預覽",
