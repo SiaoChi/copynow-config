@@ -1,19 +1,19 @@
 {
   "ios_min_version": "1.2.0",
-  "ios_latest_version": "2.0.0",
+  "ios_latest_version": "2.1.0",
   "macos_min_version": "1.0.0",
   "macos_latest_version": "1.1.2",
   "ios_update_description": {
-    "zh-TW": "• 新增圖片卡片：常用圖片也能存成卡片，一點就複製\n• 圖片卡片可加入鍵盤；因 iOS 鍵盤限制，點選後請在輸入框長按「貼上」\n• 雙 11 優惠：進階擴充包老客戶限時優惠中，至 11/11 止",
-    "zh-Hans": "• 新增图片卡片：常用图片也能存成卡片，一点就复制\n• 图片卡片可加入键盘；因 iOS 键盘限制，点选后请在输入框长按「粘贴」\n• 双 11 优惠：进阶扩充包老客户限时优惠中，至 11/11 止",
-    "en": "• New image cards: save the pictures you use often and copy them with a tap\n• Image cards can go on the keyboard too. Due to iOS keyboard limits, tap the image, then long-press the text field and choose Paste\n• Singles' Day sale: Pro Pack at a special price for existing customers, until 11/11",
-    "ja": "• 画像カードを追加：よく使う画像をカードにして、タップでコピー\n• 画像カードはキーボードにも追加できます。iOS キーボードの制限により、タップ後に入力欄を長押しして「ペースト」してください\n• 11.11 セール：既存のお客様はプロパックが特別価格に（11/11 まで）",
-    "ko": "• 이미지 카드 추가: 자주 쓰는 이미지를 카드로 저장하고 탭 한 번으로 복사\n• 이미지 카드도 키보드에 추가할 수 있어요. iOS 키보드 제한으로 탭한 뒤 입력란을 길게 눌러 「붙여넣기」해 주세요\n• 11.11 할인: 기존 고객 대상 Pro Pack 특별가 (11/11까지)",
-    "es": "• Nuevas tarjetas de imagen: guarda las imágenes que más usas y cópialas con un toque\n• También puedes añadirlas al teclado. Por las limitaciones del teclado de iOS, toca la imagen y luego mantén pulsado el campo de texto y elige Pegar\n• Oferta 11.11: Pro Pack a precio especial para clientes actuales, hasta el 11/11",
-    "fr": "• Nouvelles cartes image : enregistrez vos images favorites et copiez-les d'un toucher\n• Elles peuvent aussi aller sur le clavier. En raison des limites du clavier iOS, touchez l'image, puis faites un appui long dans le champ de texte et choisissez Coller\n• Promo 11.11 : Pro Pack à prix spécial pour les clients existants, jusqu'au 11/11",
-    "de": "• Neu: Bildkarten – häufig genutzte Bilder speichern und mit einem Tipp kopieren\n• Bildkarten können auch auf die Tastatur. Wegen der iOS-Tastaturbeschränkungen: Bild antippen, dann lange ins Textfeld drücken und „Einsetzen“ wählen\n• 11.11-Aktion: Pro Pack zum Sonderpreis für Bestandskunden, bis 11.11.",
-    "vi": "• Thêm thẻ hình ảnh: lưu ảnh hay dùng thành thẻ, chạm một lần là sao chép\n• Thẻ hình ảnh cũng có thể thêm vào bàn phím. Do giới hạn bàn phím iOS, sau khi chạm ảnh, hãy nhấn giữ ô nhập và chọn Dán\n• Ưu đãi 11.11: Pro Pack giá đặc biệt cho khách hàng cũ, đến hết 11/11",
-    "th": "• เพิ่มการ์ดรูปภาพ: บันทึกรูปที่ใช้บ่อยเป็นการ์ด แตะครั้งเดียวก็คัดลอก\n• เพิ่มการ์ดรูปภาพลงแป้นพิมพ์ได้ด้วย เนื่องจากข้อจำกัดของแป้นพิมพ์ iOS หลังแตะรูปแล้ว ให้กดค้างที่ช่องพิมพ์แล้วเลือก วาง\n• โปร 11.11: Pro Pack ราคาพิเศษสำหรับลูกค้าเดิม ถึง 11/11"
+    "zh-TW": "• 新增「儲存空間」：看圖片卡佔多少空間，最大的圖片點一下就能刪\n• 新增批次刪除卡片：一次清掉多張不用的卡片\n• 卡片滑動更順暢\n• 雙 11 優惠：進階擴充包老客戶限時優惠中，至 11/11 止",
+    "zh-Hans": "• 新增「存储空间」：查看图片卡占用多少空间，最大的图片点一下就能删\n• 新增批量删除卡片：一次清掉多张不用的卡片\n• 卡片滑动更流畅\n• 双 11 优惠：进阶扩充包老客户限时优惠中，至 11/11 止",
+    "en": "• New Storage page: see how much space image cards use, and delete the largest with a tap\n• Delete cards in bulk: clear out several unused cards at once\n• Smoother scrolling\n• Singles' Day sale: Pro Pack at a special price for existing customers, until 11/11",
+    "ja": "• 「ストレージ」を追加：画像カードの使用容量を確認し、大きい画像をタップで削除\n• カードの一括削除：使わないカードをまとめて削除\n• スクロールがよりスムーズに\n• 11.11 セール：既存のお客様はプロパックが特別価格に（11/11 まで）",
+    "ko": "• 「저장 공간」 추가: 이미지 카드가 차지하는 용량을 확인하고 큰 이미지는 탭 한 번으로 삭제\n• 카드 일괄 삭제: 안 쓰는 카드를 한 번에 정리\n• 더 부드러운 스크롤\n• 11.11 할인: 기존 고객 대상 Pro Pack 특별가 (11/11까지)",
+    "es": "• Nueva página Almacenamiento: mira cuánto ocupan las tarjetas de imagen y borra las más grandes con un toque\n• Elimina tarjetas en bloque: quita varias tarjetas que ya no usas de una vez\n• Desplazamiento más fluido\n• Oferta 11.11: Pro Pack a precio especial para clientes actuales, hasta el 11/11",
+    "fr": "• Nouvelle page Stockage : voyez l'espace utilisé par les cartes image et supprimez les plus lourdes d'un toucher\n• Suppression groupée : effacez plusieurs cartes inutilisées d'un coup\n• Défilement plus fluide\n• Promo 11.11 : Pro Pack à prix spécial pour les clients existants, jusqu'au 11/11",
+    "de": "• Neu: Speicher – sieh, wie viel Platz Bildkarten belegen, und lösche die größten mit einem Tipp\n• Karten gesammelt löschen: mehrere ungenutzte Karten auf einmal entfernen\n• Flüssigeres Scrollen\n• 11.11-Aktion: Pro Pack zum Sonderpreis für Bestandskunden, bis 11.11.",
+    "vi": "• Thêm trang Dung lượng: xem thẻ hình ảnh chiếm bao nhiêu dung lượng, chạm một lần để xóa ảnh lớn nhất\n• Xóa thẻ hàng loạt: dọn nhiều thẻ không dùng cùng lúc\n• Cuộn mượt hơn\n• Ưu đãi 11.11: Pro Pack giá đặc biệt cho khách hàng cũ, đến hết 11/11",
+    "th": "• เพิ่มหน้า พื้นที่จัดเก็บ: ดูว่าการ์ดรูปภาพใช้พื้นที่เท่าไร และแตะครั้งเดียวเพื่อลบรูปที่ใหญ่ที่สุด\n• ลบการ์ดทีละหลายใบ: ล้างการ์ดที่ไม่ใช้ได้ในครั้งเดียว\n• เลื่อนดูลื่นขึ้น\n• โปร 11.11: Pro Pack ราคาพิเศษสำหรับลูกค้าเดิม ถึง 11/11"
   },
   "macos_update_description": {
     "zh-TW": "• 浮動面板改為自選卡片，在主視窗把常用的加進來\n• 卡片可以選顏色，並依顏色篩選\n• 新增排序功能\n• 設定文字放大，卡片樣式可預覽",
